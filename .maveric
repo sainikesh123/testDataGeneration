@@ -1,0 +1,8 @@
+;Semi colon can be used to comment
+#This is another comment
+/This is yet another
+//No multilline commenting supported now
+//This file should be place in parent directory of the file from where the script is called
+//The gnthmPID will be used to write log files etc
+
+gnthmPID=testDataGeneration
